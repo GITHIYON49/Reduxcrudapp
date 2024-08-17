@@ -1,3 +1,4 @@
 import { UserData } from "./UserData";
+import { stringData } from "./StringData";
 
-export{UserData};
+export { UserData, stringData };

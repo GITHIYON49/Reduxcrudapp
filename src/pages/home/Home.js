@@ -1,11 +1,13 @@
-import { Table} from "../../components";
+import { Table } from "../../components";
 
 const Home = () => {
-  return <>
- <div>
-    <Table/>
- </div>
-  </>
-}
+  return (
+    <>
+      <div>
+        <Table />
+      </div>
+    </>
+  );
+};
 
 export default Home;

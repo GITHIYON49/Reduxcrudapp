@@ -1,0 +1,15 @@
+export const stringData = {
+  createBtn: "Add user",
+  editBtn: "Edit",
+  deleteBtn: "Delete",
+  No: "S/no",
+  Name: "Name",
+  Age: "Age",
+  Update: "Update",
+  Delete: "Delete",
+  title: "Redux crud app",
+  homePage: "Home",
+  adduserPage: "Adduser",
+  placeholderName: "Enter your name",
+  placeholderAge: "Enter your Age",
+};
